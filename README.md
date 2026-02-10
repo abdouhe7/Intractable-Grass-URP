@@ -6,12 +6,8 @@
 ## Demo
 
 ### Lighting & Wind
-![Custom lighting and procedural wind animation](Previews/Grass1.gif)
+![Custom lighting and procedural wind animation](Preview/Grass1.gif)
 > Real-time grass geometry with custom lighting model and procedural noise-based wind
-
-### Painting Tool & Player Interaction
-![Interactive painting tool and player interaction](Previews/Grass2.gif)
-> Paint grass directly in Play Mode — brush controls for density, height, color, and more
 
 ---
 
